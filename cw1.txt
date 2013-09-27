@@ -1,0 +1,14 @@
+Name: Zacharias Markakis
+Student ID: 23631309
+Username: zm1g09
+
+Parts of the coursework attempted:
+
+I have attempted all parts of the coursework.
+Parts 1-5 were attempted as specified per the instructions.
+
+For the extension I decided to make a basic version of an "Arkanoid" game, in the style of a "Pong" game, in the sense that I deal with abstractions of pixels and not drawn images and sounds.
+
+The purpose of the game is to destroy all of the bricks, ensuring with the block you control that the ball does not fall to the bottom.
+
+I have explained my implementation in my code's comments.
